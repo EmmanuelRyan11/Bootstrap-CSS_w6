@@ -1,0 +1,35 @@
+/** @format */
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.carousel-item img {
+  height: 200px;
+}
+
+@media (min-width: 560px) {
+  .carousel-item img {
+    height: 420px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+.jumbotron {
+  padding: 0.5rem;
+}
+
+.container h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.card {
+  width: 18rem;
+}
+
+.card img {
+  margin-top: 30px;
+  height: 230px;
+}
